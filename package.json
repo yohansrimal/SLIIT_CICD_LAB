@@ -1,0 +1,22 @@
+{
+  "name": "sliit_cicd_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohansrimal/SLIIT_CICD_LAB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohansrimal/SLIIT_CICD_LAB/issues"
+  },
+  "homepage": "https://github.com/yohansrimal/SLIIT_CICD_LAB#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
